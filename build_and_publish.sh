@@ -5,7 +5,7 @@ set -e
 rm -rf dist/ build/ *.egg-info
 
 # Install build dependencies
-pip install --upgrade pip build twine
+uv pip install --upgrade build twine
 
 # Build the package
 python -m build
