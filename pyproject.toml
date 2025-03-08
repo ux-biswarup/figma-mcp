@@ -20,8 +20,8 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/JayZeeDesign/figma-mcp-python"
-"Bug Tracker" = "https://github.com/JayZeeDesign/figma-mcp-python"
+"Homepage" = "https://github.com/JayZeeDesign/figma-mcp"
+"Bug Tracker" = "https://github.com/JayZeeDesign/figma-mcp"
 
 [project.scripts]
 figma-mcp = "figma_mcp.main:main"
